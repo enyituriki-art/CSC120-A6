@@ -11,7 +11,7 @@ Brief description: setOS() ignores the argument and always sets operating system
 Failed unit test: testSetOSUpdatesOperatingSystem() 
 
 ## Bug 4
-Brief description: toString() prints incorrect values because memory and price are wrong from constructor 
+Brief description: toString() reflects incorrect values because constructor does not properly initialize memory and price.
 Failed unit test: testToStringContainsCorrectValues()
 
 ## Bug 5

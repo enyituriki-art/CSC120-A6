@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class ResaleShop {
     
     /*
-     * Attrubutes
+     * Attributes
      */
     ArrayList<Computer> inventory; 
 
